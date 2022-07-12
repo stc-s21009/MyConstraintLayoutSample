@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
         btsend.setOnClickListener(listener);
     }
 //
+    //
     private class BtLis implements View.OnClickListener{
         @Override
         public void onClick(View view){
